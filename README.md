@@ -1,0 +1,2 @@
+# ljs
+Light Javascript Templates
